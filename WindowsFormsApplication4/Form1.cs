@@ -383,12 +383,8 @@ namespace WindowsFormsApplication4
             return;
         }
 
-
-
-
-
-
-
+        
+        
         private void ChuZhengKaiShi()
         {
             //海域选择完毕 出征开始
